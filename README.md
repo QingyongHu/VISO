@@ -28,9 +28,9 @@ several sub-tasks, including moving object detection, single-object tracking, an
 
 ### (3) Demo
 
-<p align="center"> <a href="https://www.youtube.com/watch?v=Mr_yfoJAO6I"><img src="./figs/Demo_cover_fig1.png" width="50%"></a> </p>
+<p align="center"> <a href="https://youtu.be/NctUdpQBbAU"><img src="./figs/Demo_cover_fig1.png" width="50%"></a> </p>
 
-<p align="center"> <a href="https://www.youtube.com/watch?v=fNiY1_ogp8k"><img src="./figs/Demo_cover_fig2.png" width="50%"></a> </p>
+<p align="center"> <a href="https://youtu.be/KaabG_zrkEM"><img src="./figs/Demo_cover_fig2.png" width="50%"></a> </p>
 
 
 
