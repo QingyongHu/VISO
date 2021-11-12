@@ -1,4 +1,4 @@
-# Eye in the Sky: Detecting and Tracking Moving Objects in Satellite Videos
+# Detecting and Tracking Small and Dense Moving Objects in Satellite Videos: A Benchmark
 
 This is the official website of the **VISO** (VIdeo Satellite Objects) dataset. [[Download](https://pan.baidu.com/s/1PRz4aRfiUGulLrTRWcSVuQ)]
 
