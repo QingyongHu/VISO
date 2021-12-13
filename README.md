@@ -46,6 +46,9 @@ If you find our work useful in your research, please consider citing:
           year={2021},
           publisher={IEEE}
         }
+        
+ ### Contact
+ Please contact [qingyong.hu@cs.ox.ac.uk](qingyong.hu@cs.ox.ac.uk) if you have any questions.
 
 ## More Repos
 1. [SoTA-Point-Cloud: Deep Learning for 3D Point Clouds: A Survey](https://github.com/QingyongHu/SoTA-Point-Cloud) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SoTA-Point-Cloud.svg?style=flat&label=Star)
