@@ -39,13 +39,13 @@ The provided dataset has been authorized by [Changguang Satellite Technology Co.
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-  @article{yin2021detecting,
-    title={Detecting and Tracking Small and Dense Moving Objects in Satellite Videos: A Benchmark},
-    author={Yin, Qian and Hu, Qingyong and Liu, Hao and Zhang, Feng and Wang, Yingqian and Lin, Zaiping and An, Wei and Guo, Yulan},
-    journal={IEEE Transactions on Geoscience and Remote Sensing},
-    year={2021},
-    publisher={IEEE}
-  }
+        @article{yin2021detecting,
+          title={Detecting and Tracking Small and Dense Moving Objects in Satellite Videos: A Benchmark},
+          author={Yin, Qian and Hu, Qingyong and Liu, Hao and Zhang, Feng and Wang, Yingqian and Lin, Zaiping and An, Wei and Guo, Yulan},
+          journal={IEEE Transactions on Geoscience and Remote Sensing},
+          year={2021},
+          publisher={IEEE}
+        }
 
 ## More Repos
 1. [SoTA-Point-Cloud: Deep Learning for 3D Point Clouds: A Survey](https://github.com/QingyongHu/SoTA-Point-Cloud) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SoTA-Point-Cloud.svg?style=flat&label=Star)
